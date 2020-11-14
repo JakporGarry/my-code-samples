@@ -1,2 +1,2 @@
 #myAPP
-learning how to use git 
+new app coming soon
